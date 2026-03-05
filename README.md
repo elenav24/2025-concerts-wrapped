@@ -2,7 +2,7 @@
 
 Submitted by: Elena Marquez
 
-About this web app: Details about my 2025 concerts
+About this web app: This site lists all the concerts I went to in 2025
 
 Time spent: 4 hours
 
@@ -34,18 +34,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmczdjB6N3U4bTgybmZpYXNmNXAyYWhjOGIydWJwMjFjY2l1ZmwyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWDABi9VTZQUEvT58F/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with QuickTime Player -> MOV to GIF -> GIPHY
 
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+
+- trouble figuring out picocss at first
+- some errors with the concert details page at first
+- trouble creating the GIF
 
 ## License
 
