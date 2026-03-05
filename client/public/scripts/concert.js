@@ -20,7 +20,7 @@ const renderConcert = async () => {
     }
     else {
         const errorMessage = document.createElement('p')
-        errorMessage.textContent = 'No concert data available :('
+        errorMessage.textContent = 'Concert not found :('
         concertContent.appendChild(errorMessage)
     }
 }
