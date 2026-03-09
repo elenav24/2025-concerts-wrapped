@@ -1,10 +1,10 @@
-# WEB103 Project 1 - Elena's 2025 Concerts Wrapped
+# WEB103 Project 2 - *Elena's 2025 Concerts Wrapped*
 
-Submitted by: Elena Marquez
+Submitted by: **Elena Marquez**
 
-About this web app: This site lists all the concerts I went to in 2025
+About this web app: **This site lists all the concerts I went to in 2025**
 
-Time spent: 4 hours
+Time spent: **1** hour
 
 ## Required Features
 
@@ -12,17 +12,14 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 - [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [x] **The web app displays a title**
-- [x] **The web app displays at least five unique list items, each with at least three displayed attributes (such as title, text, and image)**
-- [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [x] **Each detail view should be a unique endpoint, such as as `localhost:3000/bosses/crystalguardian` and `localhost:3000/mantislords`**
-  - [x] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
-- [x] **The web app serves an appropriate 404 page when no matching route is defined**
-- [x] **The web app is styled using Picocss**
+- [x] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+  - [x] **NOTE: Your walkthrough added to the README must include a view of your Render dashboard demonstrating that your Postgres database is available**
+  - [x]  **NOTE: Your walkthrough added to the README must include a demonstration of your table contents. Use the psql command 'SELECT * FROM tablename;' to display your table contents.**
+
 
 The following **optional** features are implemented:
 
-- [x] The web app displays items in a unique format, such as cards rather than lists or animated list items
+- [ ] The user can search for items by a specific attribute
 
 The following **additional** features are implemented:
 
@@ -30,11 +27,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**Note: please be sure to 
-
 Here's a walkthrough of implemented required features:
 
-<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmczdjB6N3U4bTgybmZpYXNmNXAyYWhjOGIydWJwMjFjY2l1ZmwyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWDABi9VTZQUEvT58F/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9nZTIxcnFtNXV2eWhwZmd5dHlud21lbWdsZHZyaXZ3OWFoNGRqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q2Jrkdf2iOAZUZVJ1I/giphy.gif' title='Video Walkthrough' width='720' alt='Video Walkthrough' />
+
 
 GIF created with QuickTime Player -> MOV to GIF -> GIPHY
 
@@ -42,13 +38,11 @@ GIF created with QuickTime Player -> MOV to GIF -> GIPHY
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
-- trouble figuring out picocss at first
-- some errors with the concert details page at first
-- trouble creating the GIF
+- Slight issue getting psql command to work after installing postgresql
 
 ## License
 
-Copyright 2026 Elena Marquez
+Copyright [2026] [Elena Marquez]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
