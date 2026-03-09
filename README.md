@@ -29,10 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ1YWY3bHU4bXJiejJtZzdxZWN6aWh4b3VqeTYzZHhhcGtwMG5iayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HXPLctc8kgWSHCi9oD/giphy.gif' title='Video Walkthrough' width='1280' alt='Video Walkthrough' />
+![codepath-project-2](https://github.com/user-attachments/assets/3b11ace8-b7a7-4937-bab5-0d781c3afb57)
 
-
-GIF created with QuickTime Player -> MOV to GIF -> GIPHY
+GIF created with QuickTime Player -> MOV to GIF
 
 ## Notes
 
