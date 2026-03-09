@@ -1,16 +1,14 @@
 import express from 'express';
 import path from 'path';
-import concertData from '../data/concerts.js';
 import { fileURLToPath } from 'url'
+import concertsController from '../controllers/concerts.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 const router = express.Router();
 
-router.get('/', (req, res) => {
-    res.status(200).json(concertData);
-});
+router.get('/', concertsController.getConcerts);
 
 router.get('/:concertId', (req, res) => {
     res.status(200).sendFile(path.resolve(__dirname, '../public/concert.html'))
