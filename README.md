@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9nZTIxcnFtNXV2eWhwZmd5dHlud21lbWdsZHZyaXZ3OWFoNGRqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q2Jrkdf2iOAZUZVJ1I/giphy.gif' title='Video Walkthrough' width='720' alt='Video Walkthrough' />
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ1YWY3bHU4bXJiejJtZzdxZWN6aWh4b3VqeTYzZHhhcGtwMG5iayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HXPLctc8kgWSHCi9oD/giphy.gif' title='Video Walkthrough' width='1280' alt='Video Walkthrough' />
 
 
 GIF created with QuickTime Player -> MOV to GIF -> GIPHY
