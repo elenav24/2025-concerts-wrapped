@@ -15,7 +15,7 @@ const createConcertsTable =
         date VARCHAR(10) NOT NULL,
         venue VARCHAR(255) NOT NULL,
         title VARCHAR(255) NOT NULL,
-        imageURL VARCHAR(255) NOT NULL
+        imageurl VARCHAR(255) NOT NULL
     )
     `
 
@@ -34,13 +34,13 @@ const seedConcertsTable = async () => {
     const insertQuery =
     {
     text:
-        'INSERT INTO concerts (artist, date, venue, title, imageURL) VALUES ($1, $2, $3, $4, $5)'
+        'INSERT INTO concerts (artist, date, venue, title, imageurl) VALUES ($1, $2, $3, $4, $5)'
     }
 
     const values =
         [
           concert.artist, concert.date, concert.venue, concert.title,
-          concert.imageURL
+          concert.imageurl
         ]
 
     pool.query(insertQuery, values, (err, res) => {

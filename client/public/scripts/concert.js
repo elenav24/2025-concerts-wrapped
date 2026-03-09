@@ -10,7 +10,7 @@ const renderConcert = async () => {
     concert = data.find(concert => concert.id === requestedID)
 
     if (concert) {
-        document.getElementById('concert-detail-image').src = concert.imageURL
+        document.getElementById('concert-detail-image').src = concert.imageurl
         document.getElementById('concert-artist').textContent = concert.artist
         document.getElementById('concert-title').textContent = concert.title
         document.getElementById('concert-venue').textContent = `Venue: ${concert.venue}`

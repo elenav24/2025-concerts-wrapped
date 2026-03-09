@@ -17,7 +17,7 @@ const renderConcerts = async () => {
       
       const concertImage = document.createElement('img')
       concertImage.className = 'concert-image'
-      concertImage.src = concert.imageURL
+      concertImage.src = concert.imageurl
       concertImage.alt = `${concert.artist} concert image`
       imageContainer.appendChild(concertImage)
 
